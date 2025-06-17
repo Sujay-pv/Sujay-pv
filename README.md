@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <h1 align="center">Hi there, I'm Sujay 👋</h1>
 <p align="center">
-  🚀 Developer • 💡 Problem Solver • 🎥 Content Creator  
+  🚀 Developer • 💡 Problem Solver • ⚙️ Full Stack Enthusiast
 </p>
 <p align="center">
   <a href="https://github.com/Sujay-pv">
