@@ -14,10 +14,10 @@
 <!-- About Section -->
 ### 🧠 About Me
 
-- 🔭 Currently building: **AI-powered tools, Micro-SaaS & Resume Builders**
+- 🔭 Currently building: **Full Stack Apps, AI-powered tools, Micro-SaaS**
 - 🌱 Learning: **LLMs, Node.js, Spring Boot, React & Cloud**
-- 🧩 Passionate about: **Productivity tools, Tech for creators, and making complex ideas simple**
-- 🎯 Goal: **From Dev Support to Full Stack Excellence**
+- 🧩 Passionate about: **Productivity tools, Technology, and making complex ideas simple**
+- 🎯 Goal: **Become an excellent Stack Agnostic Developer**
 
 ---
 
@@ -27,6 +27,7 @@
 ```js
 Frontend:   React • Next.js • Tailwind • HTML • CSS  
 Backend:    Node.js • Java • Spring Boot • Express  
-Database:   MongoDB • MySQL  
-Tools:      Git • GitHub • VS Code • Postman  
+Database:   MongoDB • MySQL
+Security:   JWT Authentication • Spring Security    
+Tools:      Git • GitHub • VS Code • Postman • Github Actions  
 Others:     Puppeteer • OpenAI • Handlebars • LLM APIs  
