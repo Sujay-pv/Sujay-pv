@@ -1,33 +1,35 @@
-<!-- Header Section -->
-<h1 align="center">Hi there, I'm Sujay 👋</h1>
+<h1 align="center">Suj</h1>
+
 <p align="center">
-  🚀 Developer • 💡 Problem Solver • ⚙️ Full Stack Enthusiast
-</p>
-<p align="center">
-  <a href="https://github.com/Sujay-pv">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
-  </a>
+Full stack developer building real products and learning systems by doing.
 </p>
 
 ---
 
-<!-- About Section -->
-### 🧠 About Me
+### About
 
-- 🔭 Currently building: **Full Stack Apps, AI-powered tools, Micro-SaaS**
-- 🌱 Learning: **LLMs, Node.js, Spring Boot, React & Cloud**
-- 🧩 Passionate about: **Productivity tools, Technology, and making complex ideas simple**
-- 🎯 Goal: **Become an excellent Stack Agnostic Developer**
+I'm a full stack developer focused on building real-world software and understanding how systems actually work in practice.
+
+Most of what I know comes from building things end-to-end — from frontend interfaces to backend workflows and deployment. I prefer learning by going deep into problems and figuring out how different parts of a system connect rather than just using tools at the surface level.
+
+Currently, I'm working on **WhisprBill**, an AI-assisted invoicing SaaS that combines natural language input with structured workflows like invoice generation, inventory management, and PDF pipelines. Building it has helped me understand areas like frontend architecture, backend data flow, validation, and system design tradeoffs.
 
 ---
 
-<!-- Skills Section -->
-### 🛠️ Tech Stack
+### What I'm Focused On
+
+- Building full stack applications with clean, maintainable architecture  
+- Designing systems that are simple, reliable, and scalable  
+- Improving how I think about data flow, APIs, and state management  
+- Using AI tools effectively as part of the development workflow  
+
+---
+
+### Tech
 
 ```js
-Frontend:   React • Next.js • Tailwind • HTML • CSS  
-Backend:    Node.js • Java • Spring Boot • Express  
-Database:   MongoDB • MySQL
-Security:   JWT Authentication • Spring Security    
-Tools:      Git • GitHub • VS Code • Postman • Github Actions  
-Others:     Puppeteer • OpenAI • Handlebars • LLM APIs  
+Frontend:   React, Next.js, Tailwind  
+Backend:    Node.js, Java, Spring Boot  
+Database:   MongoDB, MySQL  
+Tools:      Git, Docker, Postman  
+Other:      Puppeteer, Handlebars, LLM APIs
