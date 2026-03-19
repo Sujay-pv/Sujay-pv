@@ -1,15 +1,15 @@
 <h1 align="center">Suj</h1>
 
 <p align="center">
-Full stack developer building real products and learning systems by doing.
+I'm Sujay - a full stack developer building real products and learning systems by doing.
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sujaypv">LinkedIn</a>•
-  <a href="https://sujaybuilds.com">Portfolio</a>•
-  <a href="https://www.whisprbill.com">WhisprBill</a> •
+  <a href="https://linkedin.com/in/sujaypv">LinkedIn</a> •
+  <a href="https://sujaybuilds.com">Portfolio</a> •
+  <a href="https://www.whisprbill.com">WhisprBill</a> 
 </p>
----
+
 
 ### About
 
